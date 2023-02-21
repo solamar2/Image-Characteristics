@@ -13,6 +13,7 @@ Fig. 1. Lines detection
 
 
 Fig. 2. Circular Hough transform
+
 Right: the algorithm in the article. Left: Gradient algorithm
 
 ![image](https://user-images.githubusercontent.com/111680890/220384725-1ad1db21-e2d1-4e91-9cf0-f58253e05022.png)
