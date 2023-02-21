@@ -6,6 +6,7 @@ Isclose: The purpose of this function is to check if there are circles that are 
 IsEmpty: This function checks whether a certain circle received a high score by chance and therefore passed the threshold in the article function. This is accomplished by finding the number of pixels in the selected circle that overlap with the edge image.
 
 Results:
+
 Fig. 1. Lines detection
 
 ![image](https://user-images.githubusercontent.com/111680890/220384532-58434607-cd31-4c1c-a3de-6dcb4a4c55a7.png)
